@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-print("hhhh")
+
 =======
 import os
 from langchain.prompts import ChatPromptTemplate
@@ -126,4 +125,4 @@ while True:
 print("\n" + "=" * 70)
 print("Session ended. Have a great day!")
 print("=" * 70)
->>>>>>> 5b5c359 (Add HR recruitment assistant with OpenAI integration)
+
